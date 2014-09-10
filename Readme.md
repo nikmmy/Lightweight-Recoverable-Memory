@@ -1,31 +1,11 @@
 ﻿CS 6210: ADVANCED OPERATING SYSTEMS
 
-
-
-
-
-
 PROJECT 4: Recoverable Virtual Memory
-
-
-
-
-
-
-
-
-
 
 Team Members:
 
-
 Anouksha Narayan (anarayan33@gatech.edu)
 Nikita Mundada (mundada.nikita@gatech.edu)
-
-
-
-
-
 
 ________________
 
